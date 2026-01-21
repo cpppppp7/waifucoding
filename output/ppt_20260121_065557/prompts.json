@@ -1,0 +1,11 @@
+{
+  "style": "vector-illustration",
+  "slides": [
+    {
+      "slide_number": 1,
+      "page_type": "cover",
+      "prompt": "You are an expert-level illustration designer. Please generate a 16:9 vector illustration style presentation slide.\n\n**Visual Style and Art Direction**\n\nIllustration style: Flat Vector Illustration. Must include clear, uniformly thick black outlines (Monoline/Stroke). Color fills should be clean, using only minimal shadows. Gradient colors or 3D rendering effects are strictly prohibited.\n\nComposition format: Horizontal panoramic composition (Panoramic), occupying the top 1/3 of the layout.\n\nLine Work: Must use uniformly thick black single-line strokes (Monoline/Uniform Stroke). All objects must have closed black outlines, similar to coloring book line art style. Line endings should be rounded, avoiding sharp corners.\n\nGeometric Simplification: Simplify complex objects into basic geometric shapes. Aim for a toy model-like cuteness.\n\nDecorative Elements: Add decorative geometric elements in empty spaces, such as radiating lines (representing sunlight or energy), pill-shaped clouds, or simple dots and stars.\n\n**Color Scheme**\n\nBackground: Cream/Off-white paper texture base color.\n\nAccent colors: Coral red, mint green, mint green, mustard yellow, burnt orange, and rock blue. Retro and soft tones.\n\n**Typography**\n\nMain title: Large, bold retro serif font (Retro Serif), conveying authority and elegance.\n\nSubtitle: All-caps sans-serif within rectangular color blocks.\n\nGenerate a cover page. In the top 1/3 area, draw a horizontal panoramic vector illustration scene, including geometric simplified representations of: an anime-style cute girl character (waifu) with headphones sitting at a computer terminal, code symbols floating around, iTerm2 terminal windows, speech bubbles with musical notes.\n\nMain title uses large retro serif font, content:\nCoding Waifu\n\nSubtitle uses all-caps sans-serif within rectangular color block background:\nAI-POWERED REAL-TIME CODING COMPANION\n\nSmall description text:\nTransform your iTerm2 into an immersive coding experience with an animated AI presenter\n\nBackground uses cream/off-white paper texture.",
+      "output": "images/slide-01.jpg"
+    }
+  ]
+}
