@@ -1,0 +1,12 @@
+{
+  "title": "iTerm2 AI Presenter - Coding Waifu",
+  "total_slides": 1,
+  "style": "vector-illustration",
+  "slides": [
+    {
+      "slide_number": 1,
+      "page_type": "cover",
+      "content": "Title: Coding Waifu\nSubtitle: AI-POWERED REAL-TIME CODING COMPANION\nDescription: Transform your iTerm2 into an immersive coding experience with an animated AI presenter that narrates Claude Code's progress in real-time"
+    }
+  ]
+}
